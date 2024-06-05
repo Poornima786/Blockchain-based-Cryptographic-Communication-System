@@ -14,7 +14,6 @@ Use of Cryptography in Blockchain:
 Blockchains make use of two types of cryptographic algorithms, asymmetric-key algorithms, and hash functions. Hash functions are used to provide the functionality of a single view of blockchain to every participant. Blockchains generally use the SHA-256 hashing algorithm as their hash function. 
 
 
-https://github.com/Poornima786/Blockchain-based-Cryptographic-Communication-System/edit/main/README.md
 ![image](https://github.com/Poornima786/Blockchain-based-Cryptographic-Communication-System/assets/152088344/12d75f2e-fccc-486f-bddc-7a3b889be6f0)
 
 Advantages: 
