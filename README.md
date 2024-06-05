@@ -17,7 +17,7 @@ Blockchains make use of two types of cryptographic algorithms, asymmetric-key al
 ![image](https://github.com/Poornima786/Blockchain-based-Cryptographic-Communication-System/assets/152088344/12d75f2e-fccc-486f-bddc-7a3b889be6f0)
 
 Advantages: 
-Our approach removes central authorities (CA) and uses the blockchain pub- lic as a distributed ledger of identity and their associated public keys. We use Blockchain to store public keys, digital signatures, and peer information.
+Approach removes central authorities (CA) and uses the blockchain public as a distributed ledger of identity and their associated public keys.I used Blockchain to store public keys, digital signatures, and peer information.
 Once published, the smart contract code works precisely as programmed. This is one of the main advantages of the platform, the code always interacts as promised, it cannot be falsified, and it never has any downtime. The system is trustworthy, transparent and traceable.
 Confidentiality: Once the communication channel between users is se- cured, peer to peer encryption between endpoints can be set and only authorized users have access to the messages exchanged.
 Message integrity and Authentication: The blockchain checks the validity of the signature, before being stored. Another person can not change/modify the signed agreement or alter exchanged messages during the network transit. Each user has a certificate stored on the blockchain. The smart contract checks the certificate and proves the identity of users. All exchanged messages are signed with private keys associated with the public key on certificates using the ECDSA algorithm.
@@ -31,12 +31,12 @@ USES:
 
 Software Required:
 
-*Python IDE(Online/Offline) 
+* Python IDE(Online/Offline) 
 * Mainly used Google Collab for better performance, easy execution and platform Independent.
   
 Hardware Required: 
 
 * Any Hardware as Mobile, Ipad, Laptop or Desktop will work
 Programming: 
-*Python Programming. 
+* Python Programming. 
 
