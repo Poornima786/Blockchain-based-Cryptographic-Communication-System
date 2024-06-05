@@ -7,9 +7,10 @@ Introduction-
 Blockchain is a peer-to-peer network; the word ‘blockchain‘ is made up of two separate terms, ‘block’ and ‘chain’. A block being referred to a collection of data, alias data records, and chain being referred to a public database of these blocks, stored as a list. 
 These lists are linked using cryptography, making it the most essential and fundamental requirement for creating a blockchain. Blockchain is a growing list of records, and the blocks get appended to the list with time. Cryptography in blockchain can be a tricky concept, but we have tried to simplify it for your better understanding.  
 Cryptography is a method of developing techniques and protocols to prevent a third party from accessing and gaining knowledge of the data from the private messages during a communication process. Cryptography is also made up of two ancient Greek terms, Kryptos and Graphein, the former meaning “hidden” and latter being “to write”. There are several terms related to cryptography, which are stated as follows: 
-Encryption: It is a process of plaintext (normal text) to a ciphertext (random sequence of bits). https://github.com/Poornima786/Blockchain-based-Cryptographic-Communication-System/edit/main/README.md
+Encryption: It is a process of plaintext (normal text) to a ciphertext (random sequence of bits).
 Decryption: The inverse process of encryption, conversion of ciphertext to plaintext.
-Use of Cryptography in Blockchain
+
+Use of Cryptography in Blockchain:
 Blockchains make use of two types of cryptographic algorithms, asymmetric-key algorithms, and hash functions. Hash functions are used to provide the functionality of a single view of blockchain to every participant. Blockchains generally use the SHA-256 hashing algorithm as their hash function. 
 
 
